@@ -1,0 +1,53 @@
+[
+  { "id": "ssbu", "name": "Super Smash Bros. Ultimate", "genres": ["Fighting"], "platforms": ["Nintendo Switch"] },
+  { "id": "melee", "name": "Super Smash Bros. Melee", "genres": ["Fighting"], "platforms": ["GameCube"] },
+  { "id": "sf6", "name": "Street Fighter 6", "genres": ["Fighting"] },
+  { "id": "tekken8", "name": "Tekken 8", "genres": ["Fighting"] },
+  { "id": "mk1", "name": "Mortal Kombat 1", "genres": ["Fighting"] },
+  { "id": "ggst", "name": "Guilty Gear -Strive-", "genres": ["Fighting"] },
+  { "id": "kof15", "name": "The King of Fighters XV", "genres": ["Fighting"] },
+  { "id": "dbfz", "name": "Dragon Ball FighterZ", "genres": ["Fighting"] },
+  { "id": "bftg", "name": "BlazBlue: Cross Tag Battle", "genres": ["Fighting"] },
+  { "id": "uni2", "name": "UNDER NIGHT IN-BIRTH II Sys:Celes", "genres": ["Fighting"] },
+
+  { "id": "rocketleague", "name": "Rocket League", "genres": ["Sports"] },
+  { "id": "fortnite", "name": "Fortnite", "genres": ["Battle Royale"] },
+  { "id": "apex", "name": "Apex Legends", "genres": ["Battle Royale"] },
+  { "id": "valorant", "name": "VALORANT", "genres": ["Shooter"] },
+  { "id": "cs2", "name": "Counter-Strike 2", "genres": ["Shooter"] },
+  { "id": "overwatch2", "name": "Overwatch 2", "genres": ["Shooter"] },
+  { "id": "r6s", "name": "Tom Clancy's Rainbow Six Siege", "genres": ["Shooter"] },
+  { "id": "codmw3", "name": "Call of Duty: Modern Warfare III", "genres": ["Shooter"] },
+  { "id": "halo", "name": "Halo Infinite", "genres": ["Shooter"] },
+  { "id": "gears5", "name": "Gears 5", "genres": ["Shooter"] },
+
+  { "id": "lol", "name": "League of Legends", "genres": ["MOBA"] },
+  { "id": "dota2", "name": "Dota 2", "genres": ["MOBA"] },
+  { "id": "smite", "name": "SMITE", "genres": ["MOBA"] },
+
+  { "id": "fifa", "name": "EA SPORTS FC 24", "genres": ["Sports"] },
+  { "id": "nba2k", "name": "NBA 2K24", "genres": ["Sports"] },
+  { "id": "madden", "name": "Madden NFL 24", "genres": ["Sports"] },
+
+  { "id": "mariokart8", "name": "Mario Kart 8 Deluxe", "genres": ["Racing"] },
+  { "id": "forza", "name": "Forza Motorsport", "genres": ["Racing"] },
+  { "id": "gt7", "name": "Gran Turismo 7", "genres": ["Racing"] },
+
+  { "id": "pokemonunite", "name": "Pokémon UNITE", "genres": ["MOBA"] },
+  { "id": "splatoon3", "name": "Splatoon 3", "genres": ["Shooter"] },
+
+  { "id": "minecraft", "name": "Minecraft", "genres": ["Sandbox"] },
+  { "id": "roblox", "name": "Roblox", "genres": ["Platform"] },
+
+  { "id": "chess", "name": "Chess", "genres": ["Strategy"] },
+  { "id": "tetris", "name": "Tetris", "genres": ["Puzzle"] },
+
+  { "id": "amongus", "name": "Among Us", "genres": ["Party"] },
+  { "id": "fallguys", "name": "Fall Guys", "genres": ["Party"] },
+
+  { "id": "hearthstone", "name": "Hearthstone", "genres": ["Card"] },
+  { "id": "mtga", "name": "Magic: The Gathering Arena", "genres": ["Card"] },
+
+  { "id": "osu", "name": "osu!", "genres": ["Rhythm"] },
+  { "id": "rhythm", "name": "Rhythm Games (Custom)", "genres": ["Rhythm"] }
+]
